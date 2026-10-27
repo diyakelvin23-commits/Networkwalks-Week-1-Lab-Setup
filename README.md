@@ -7,7 +7,14 @@ This project documents my Week 1 Networkwalks internship task. I set up a Kali L
 - Oracle VirtualBox
 - Kali Linux
 - Windows
+## Host Laptop Specifications
 
+- Manufacturer: HP
+- Model: HP EliteBook 840 G3
+- Processor: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+- CPU cores: 2
+- Logical processors: 4
+- Installed RAM: 8 GB
 ## Network Configuration
 - Network type: NAT Network
 - Network CIDR: `10.0.0.0/24`
