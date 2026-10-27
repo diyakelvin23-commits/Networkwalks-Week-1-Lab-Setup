@@ -29,7 +29,12 @@ I experienced a problem with VirtualBox drag-and-drop. Even after updating the g
 I learned how to configure a virtual machine, set a static IP address, test internet connectivity, share a folder, configure clipboard sharing, and create a snapshot.
 
 ## Screenshots
-Screenshots of my actual setup and test results will be added here.
+
+- [Kali IP Address](kali-ip-address.png)
+- [Internet Connectivity Test](internet-connectivity.png)
+- [Shared Downloads Folder](shared-downloads-folder.png)
+- [VirtualBox Network Settings](virtualbox-network-settings.png)
+- [Networkwalks Week 1 Snapshot](networkwalks-week1-snapshot.png)
 
 ## Conclusion
 The main lab setup is working, including networking, internet access, the shared folder, clipboard
